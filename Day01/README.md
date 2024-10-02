@@ -1,7 +1,5 @@
 # JavaScript Drum Kit
-
-## Description
 Build a page where you can play drums with some keyboard keys.
 
-## Screenshot
+### Screenshot
 ![screenshot](screenshot.JPG)
